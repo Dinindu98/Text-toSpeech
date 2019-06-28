@@ -1,0 +1,10 @@
+115:Hello, I'm Aleesha, your personal home assistant, How can I help you
+126:Hi, What can I do know
+116:living room light is turn on
+125:living room light is turn on
+136:living room light is turn on
+135:living room light is turn on
+146:living room light is turn on
+145:living room light is turn on
+156:living room light is turn on
+155:living room light is turn on

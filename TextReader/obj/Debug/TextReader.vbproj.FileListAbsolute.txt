@@ -1,0 +1,33 @@
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\bin\Debug\TextReader.exe.config
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\bin\Debug\TextReader.exe
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\bin\Debug\TextReader.pdb
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\bin\Debug\TextReader.xml
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\obj\Debug\TextReader.vbprojResolveAssemblyReference.cache
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\obj\Debug\TextReader.Form1.resources
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\obj\Debug\TextReader.Resources.resources
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\obj\Debug\TextReader.vbproj.GenerateResource.Cache
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\obj\Debug\TextReader.exe
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\obj\Debug\TextReader.xml
+C:\Users\Isuru Priyanjaya\Documents\Visual Studio 2015\Projects\Other Projects\TextReader\TextReader\obj\Debug\TextReader.pdb
+D:\New folder (4)\New folder\TextReader\TextReader\bin\Debug\TextReader.exe.config
+D:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.exe
+D:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.xml
+D:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.pdb
+D:\New folder (4)\New folder\TextReader\TextReader\bin\Debug\TextReader.exe
+D:\New folder (4)\New folder\TextReader\TextReader\bin\Debug\TextReader.pdb
+D:\New folder (4)\New folder\TextReader\TextReader\bin\Debug\TextReader.xml
+D:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.vbprojResolveAssemblyReference.cache
+D:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.Form1.resources
+D:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.Resources.resources
+D:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.vbproj.GenerateResource.Cache
+E:\New folder (4)\New folder\TextReader\TextReader\bin\Debug\TextReader.exe.config
+E:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.exe
+E:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.xml
+E:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.pdb
+E:\New folder (4)\New folder\TextReader\TextReader\bin\Debug\TextReader.exe
+E:\New folder (4)\New folder\TextReader\TextReader\bin\Debug\TextReader.pdb
+E:\New folder (4)\New folder\TextReader\TextReader\bin\Debug\TextReader.xml
+E:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.vbprojResolveAssemblyReference.cache
+E:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.Form1.resources
+E:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.Resources.resources
+E:\New folder (4)\New folder\TextReader\TextReader\obj\Debug\TextReader.vbproj.GenerateResource.Cache
